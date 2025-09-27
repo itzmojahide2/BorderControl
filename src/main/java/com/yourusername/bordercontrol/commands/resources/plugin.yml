@@ -1,0 +1,12 @@
+name: BorderControl
+version: 1.0
+main: com.yourusername.bordercontrol.BorderControl
+api-version: '1.21'
+author: ItzMOJAHIDE
+description: A plugin to control the world border with added effects.
+
+commands:
+  border:
+    description: Main command for the BorderControl plugin.
+    usage: /border <subcommand>
+    aliases: [bc]
